@@ -20,3 +20,6 @@ Serving pages from memory
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
 Web Server is available at http://localhost:8080/ (bind address 0.0.0.0)
 Press Ctrl+C to stop
+
+Change of config file detected, rebuilding site.
+2025-06-02 09:35:43.836 +0000
